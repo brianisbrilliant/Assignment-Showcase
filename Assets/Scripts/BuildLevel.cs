@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+	TODO:
+	1. use distance from camera to build from the bottom to the front!
+ */ 
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
