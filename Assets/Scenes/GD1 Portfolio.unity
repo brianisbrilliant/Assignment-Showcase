@@ -11931,8 +11931,8 @@ MonoBehaviour:
   - {fileID: 770006269}
   - {fileID: 1929153793}
   interval: 0.1
-  totalLoadTime: 10
-  loadByTime: 0
+  totalLoadTime: 4
+  loadByTime: 1
   player: {fileID: 871434130}
   loadInCamAnimator: {fileID: 230912849}
   debug: 1

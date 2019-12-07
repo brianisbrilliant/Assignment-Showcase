@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GD1 Portfolio.unity
     guid: e5f658648103b45869de84d053c71cae
+  - enabled: 1
+    path: Assets/Scenes/GD2 Animation.unity
+    guid: 3441fb87a197c4a4d9bda45f43fa3f69
   m_configObjects: {}
